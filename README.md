@@ -1,4 +1,6 @@
-Titanic Survival Rate Prediction
+
+
+##Titanic Survival Rate Prediction
 This project aims to predict the survival of passengers aboard the Titanic using machine learning models. The dataset is provided by Kaggle's Titanic competition.
 
 🚀 Objective
